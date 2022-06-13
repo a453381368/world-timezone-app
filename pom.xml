@@ -37,7 +37,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezone-service</applicationName>
+						<applicationName>mule-worldtimezone-service-poc</applicationName>
 						<password>Mebius64272598</password>
 						<muleVersion>4.4.0</muleVersion>
 					</cloudHubDeployment>
