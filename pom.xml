@@ -40,6 +40,7 @@
 						<applicationName>mule-worldtimezone-service-poc</applicationName>
 						<password>Mebius6427</password>
 						<muleVersion>4.4.0</muleVersion>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
